@@ -11,11 +11,11 @@
 Dateistruktur:  
 3 Dateien und ein Ordner müßen im gleichen Verzeichniss liegen.  
 ──Irgendein Ordner/  
-   ├── attc.exe (Das Programm)  
-   ├── cover/  
-   │   └── (Hier weden alle Cover gespeichert.)  
-   ├── comics.json (Die Datenbank)  
-   └── comic.ini (Konfigurationsdatei)  
+       ├── attc.exe (Das Programm)  
+       ├── cover/  
+       │   └── (Hier weden alle Cover gespeichert.)  
+       ├── comics.json (Die Datenbank)  
+       └── comic.ini (Konfigurationsdatei)  
    
 Probiert es einfach aus, wenn es Euch gefällt, nutzt es, wenn nicht, dann ab in den Mülleimer. Über ein Feedback, Bugs, Verbesserungen, oder sonstige Kommentare würde ich mich freuen.
  
