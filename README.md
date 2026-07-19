@@ -22,46 +22,4 @@ Probiert es einfach aus, wenn es Euch gefällt, nutzt es, wenn nicht, dann ab in
  
  
 
- 
-"Anti-Comic-Chaos-Tool" is a flat-file database designed primarily for managing German-language comics, though it works just as well with English, French, and other titles. It is ideal for the "average" collector. Whether you have 10 manga volumes or a complete Disney collection, this tool ensures you never lose track of your treasures.
 
-- Just a small .exe file (only 10 MB).
-- No installation required; the program runs as a standalone, portable application (including from a USB drive).
-- It works (almost) entirely offline—no registration, ads, or other online nonsense. Internet access is only required for the web import feature, which is optional.
-- Completely free, with no limitations.
-
-File structure:
-Three files and one folder must be located in the same directory.
-──Some Folder/
-├── attc.exe (The program)
-├── cover/
-│   └── (All cover images are stored here.)
-├── comics.json (The database)
-└── comic.ini (Configuration file)
-
-Give it a try: if you like it, use it; if not, just toss it in the trash. I would appreciate any feedback, bug reports, suggestions for improvement, or other comments.
- 
- 
- 
- 
-  
-«Anti-Comic-Chaos-Tool» est une base de données à plat conçue principalement pour gérer les bandes dessinées en allemand, mais elle fonctionne également avec l'anglais, le français et d'autres langues. Idéale pour le collectionneur amateur. Que vous possédiez 10 mangas ou toute votre collection Disney, cet outil vous aidera à garder une trace de vos trésors.
-
-- Un simple fichier .exe de seulement 10 Mo
-- Aucune installation requise ; le programme fonctionne de manière autonome et est portable (même sur une clé USB).
-- Il fonctionne (presque) entièrement hors ligne, sans inscription, publicité ni autres désagréments liés au web. Une connexion internet est nécessaire pour l'importation via le web, mais cette fonction est optionnelle.
-- Entièrement gratuit, sans aucune limitation.
-
-Structure des fichiers :
-3 fichiers et un dossier doivent se trouver dans le même répertoire.
-
-──N'importe quel dossier/
-   ├── attc.exe (Le programme)
-   ├── cover/
-   │ └── (Toutes les couvertures sont stockées ici.)
-   ├── comics.json (La base de données)
-   └── comic.ini (Fichier de configuration)
-
-Essayez-le ! Si vous l'appréciez, utilisez-le ; sinon, supprimez-le. Vos commentaires, rapports de bugs, suggestions d'amélioration et autres remarques sont les bienvenus.
- 
- 
