@@ -8,9 +8,9 @@
 - Es funktioniert (fast) komplett Offline, keine Registrierung oder Werbung oder sonstiger Online Shit. Für eine Web Import Funktion ist Internetzugang zwar nötig, aber die Funktion ist optional.
 - Komplett kostenlos, ohne Einschränkung.
 
-Dateistruktur:
-3 Dateien und ein Ordner müßen im gleichen Verzeichniss liegen.
-──Irgendein Ordner/<br>
+Dateistruktur:  
+3 Dateien und ein Ordner müßen im gleichen Verzeichniss liegen.  
+──Irgendein Ordner/
    ├── attc.exe (Das Programm)
    ├── cover/
    │   └── (Hier weden alle Cover gespeichert.)
