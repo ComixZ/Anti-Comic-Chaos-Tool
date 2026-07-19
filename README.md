@@ -10,7 +10,7 @@
 
 Dateistruktur:
 3 Dateien und ein Ordner müßen im gleichen Verzeichniss liegen.
-──Irgendein Ordner/
+──Irgendein Ordner/<br>
    ├── attc.exe (Das Programm)
    ├── cover/
    │   └── (Hier weden alle Cover gespeichert.)
