@@ -14,7 +14,9 @@ Dateistruktur:
 ```
 ──Irgendein Ordner/  
        ├── attc.exe (Das Programm)  
-       ├── cover/  
+       ├── frontcover/  
+       │   └── (Hier weden alle Cover gespeichert.)  
+       ├── artprint/  
        │   └── (Hier weden alle Cover gespeichert.)  
        ├── comics.json (Die Datenbank)  
        └── comic.ini (Konfigurationsdatei)  
