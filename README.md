@@ -17,7 +17,7 @@ Dateistruktur:
        ├── frontcover/  
        │   └── (Hier weden alle Cover gespeichert.)  
        ├── artprint/  
-       │   └── (Hier weden alle Cover gespeichert.)  
+       │   └── (Hier weden alle Kunstdrucke gespeichert.)  
        ├── comics.json (Die Datenbank)  
        └── comic.ini (Konfigurationsdatei)  
 ```   
@@ -40,8 +40,10 @@ Three files and one folder must be located in the same directory.
 ```
 ──Some Folder/
     ├── attc.exe (The program)
-    ├── cover/
+    ├── frontcover/
     │   └── (All cover images are stored here.)
+    ├── artprint/  
+    │   └── (All art prints are stored here.)
     ├── comics.json (The database)
     └── comic.ini (Configuration file)
 ```
@@ -64,8 +66,10 @@ Structure des fichiers :
 ```
 ──N'importe quel dossier/
      ├── attc.exe (Le programme)
-     ├── cover/
-     │ └── (Toutes les couvertures sont stockées ici.)
+     ├── frontcover/
+     │   └── (Toutes les couvertures sont stockées ici.)
+     ├── artprint/  
+     │   └── (Toutes les reproductions d'art sont conservées ici.)
      ├── comics.json (La base de données)
      └── comic.ini (Fichier de configuration)
 ```
