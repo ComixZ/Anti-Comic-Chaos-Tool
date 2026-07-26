@@ -1,5 +1,9 @@
 # Anti-Comic-Chaos-Tool
-<br><br><br>
+<br><br>
+https://github.com/ComixZ/Anti-Comic-Chaos-Tool/releases/download/v1.8.2026/acct.zip
+<br>
+
+
 <img width="1366" height="719" alt="Screen2" src="https://github.com/user-attachments/assets/6e735b69-ca93-4243-813d-be2d4dbd06f8" />
 
 "Anti-Comic-Chaos-Tool" ist eine Flat-File-Datenbank um primär deutschsprachige Comics zu verwalten, funktioniert aber natürlich auch mit englischen, französischen, usw. Ideal für den "normalen" Sammler. Ob 10 Mangas oder alles von Disney, mit diesem Tool verliert Ihr nie die Übersicht über Eure Schätze.
