@@ -1,5 +1,8 @@
 # Anti-Comic-Chaos-Tool (ACCT)
 
+
+[⬇️ Download latest release](https://github.com/ComixZ/Anti-Comic-Chaos-Tool/releases/latest)
+
 <img width="1366" height="714" alt="screen1" src="https://github.com/user-attachments/assets/6ee50984-e9b1-4fee-95b2-b9bc3362573f" />
 
 
